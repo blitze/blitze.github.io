@@ -1,0 +1,20 @@
+{
+	"stable": {
+		"2.0": {
+			"current": "2.0.3",
+			"announcement": "https://www.phpbb.com/customise/db/extension/phpbb_sitemaker_2/",
+			"download": "https://www.phpbb.com/customise/db/download/126816",
+			"eol": null,
+			"security": false
+		}
+	},
+	"unstable": {
+		"2.0": {
+			"current": "2.0.4-rc3",
+			"announcement": "https://github.com/blitze/phpBB-ext-sitemaker/releases",
+			"download": "https://github.com/blitze/phpBB-ext-sitemaker/releases/download/v2.0.4-RC3/sitemaker_2.0.4-RC3.zip",
+			"eol": null,
+			"security": false
+		}
+	}
+}
